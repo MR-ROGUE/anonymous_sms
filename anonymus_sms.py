@@ -3,7 +3,7 @@ print("\033[96mCoded by github.com/venkateshdudyala \033[0m ")
 print("\033[93m Version 1.0 \033[0m") 
 print("\033[91m Checking dependencies... \033[0m") 
 time.sleep(2) 
-os.system("bash rq.sh") 
+os.system("bash requirements.sh") 
 def menu() : 
   print("\033[91m1.\033[0m \033[92mSend anonymous sms\033[0m") 
   print("\033[91m2.\033[0m \033[92mCheck status of sms\033[0m") 
