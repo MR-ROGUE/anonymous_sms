@@ -34,7 +34,7 @@ def status() :
   textID = input("Enter textID of sms : ") 
   os.system(f"curl https://textbelt.com/status/{textID}")
 os.system("clear")
-os.system("toilet -f mono12 -F gay Scammer ")
+os.system("toilet -f smblock --filter border:metal 'author-ROGUE' ")
 print("\033[96mCoded by github.com/venkateshdudyala")
 print("Insta handle - @cyber_king_of_internet")
 menu()
