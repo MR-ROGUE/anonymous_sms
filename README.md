@@ -19,11 +19,13 @@ Facebook page :cyber king
 
 Installation :-
 
-git clone https://github.com/venkateshdudyala/anonymus_sms 
+1. git clone https://github.com/venkateshdudyala/anonymus_sms 
 
-bash rq.sh
+2. bash rq.sh
 
-python anonymous_sms
+3. pip install requests
+
+4. python anonymous_sms
 
 
 Usage:-
