@@ -1,5 +1,5 @@
 import requests, os, sys, time
-print("\033[96mCoded by github.com/Sanif007 \033[0m ")
+print("\033[96mCoded by github.com/venkateshdudyala \033[0m ")
 print("\033[93m Version 2.0 \033[0m")
 print("\033[91m Checking dependencies... \033[0m")
 time.sleep(2)
@@ -35,7 +35,7 @@ def status() :
   os.system(f"curl https://textbelt.com/status/{textID}")
 os.system("clear")
 os.system("toilet -f mono12 -F gay Scammer ")
-print("\033[96mCoded by github.com/Sanif007")
-print("Insta handle - @haoi_hackers_academy_of_india")
+print("\033[96mCoded by github.com/venkateshdudyala")
+print("Insta handle - @cyber_king_of_internet")
 menu()
 control()
