@@ -33,10 +33,10 @@ Installation :-
 
 Usage:-
 
-Enter your victim number in option 1
+Enter your victim number with country code (eg. +91**********)
 
-And enter your message and hit enter,you'll be provided by text id
+And enter your message and hit enter
 
-If u want track your sms weather sent or not it will used in 2nd option
+You can track your sms weather sent or not it will used in 2nd option
 
 Notice : only one sms will be allow to send per day
