@@ -28,7 +28,7 @@ Installation :-
 
 3. pip install requests
 
-4. python anonymous_sms
+4. python anonymous_sms.py
 
 
 Usage:-
