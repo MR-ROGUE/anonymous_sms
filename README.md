@@ -20,18 +20,25 @@ Facebook page :cyber king
     github    :venkateshdudyala
 
 
-Installation :-
+Installation && Build dependencies :
+
+0. apt install git python curl bash toilet 
+
 
 1. git clone https://github.com/venkateshdudyala/anonymus_sms 
 
-2. bash rq.sh
 
 3. pip install requests
 
-4. python anonymous_sms.py
+
+
+
 
 
 Usage:-
+
+python anonymous_sms.py
+
 
 Enter your victim number with country code (eg. +91**********)
 
