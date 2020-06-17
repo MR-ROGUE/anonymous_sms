@@ -7,28 +7,32 @@ Author - VENKEY_ROGUE
 "DISCLAIMER"
 
 
-Use it for need, not for revange.
+1. Use it for need, not for revange.
 
-"Iam not responsible for your activities."
+2. "Iam not responsible for your activities."
+
+3. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
 }
 
-Instagram page:cyber_king_of_internet
+Instagram page: cyber_king_of_internet
 
-Facebook page :cyber king
+Facebook page : cyber king
 
     github    :venkateshdudyala
 
 
 Installation && Build dependencies :
-
-0. apt install git python curl bash toilet 
+ 
 
 
 1. git clone https://github.com/venkateshdudyala/anonymus_sms 
 
 
-3. pip install requests
+2. sudo bash rq.sh
+
+
+3. sudo python3 anonymous_sms.py
 
 
 
@@ -37,12 +41,8 @@ Installation && Build dependencies :
 
 Usage:-
 
-python anonymous_sms.py
-
 
 Enter your victim number with country code (eg. +91**********)
-
-And enter your message and hit enter
 
 You can track your sms weather sent or not it will used in 2nd option
 
