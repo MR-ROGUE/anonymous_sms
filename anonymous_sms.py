@@ -35,7 +35,7 @@ def status() :
   os.system(f"curl https://textbelt.com/status/{textID}")
 os.system("clear")
 os.system("toilet -f smblock --filter border:metal 'ANONYMOUS_SMS' ")
-print("\033[96mCoded by - VENKEY_ROGUE")
+print("\033[96mCoded by - MR. ROGUE")
 print("Instagram - @cyber_king_of_internet")
 menu()
 control()
