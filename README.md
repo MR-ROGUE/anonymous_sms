@@ -34,13 +34,6 @@ Installation && Build dependencies :
 
 3. sudo python3 anonymous_sms.py
 
-DONATE
-PAYPAL : paypal.me/venkeyrogue
-
-
-
-
-
 
 Usage:-
 
