@@ -1,8 +1,7 @@
 # anonymus_sms
-Author - VENKEY_ROGUE
+Author - Venkateshu Dudyala
 
 
-{
 
 "DISCLAIMER"
 
@@ -13,7 +12,7 @@ Author - VENKEY_ROGUE
 
 3. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
-}
+
 
 Instagram page: cyber_king_of_internet
 
