@@ -12,13 +12,14 @@ Author - Venkateshu Dudyala
 
 3. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
+Social media handle
 
+Instagram page: @cyber_king_of_internet
 
-Instagram page: cyber_king_of_internet
+Facebook page : @venkey.rouge 
 
-Facebook page : cyber king
+github    : @MR-ROGUE
 
-    github    :venkateshdudyala
 
 
 Installation && Build dependencies :
@@ -32,6 +33,9 @@ Installation && Build dependencies :
 
 
 3. sudo python3 anonymous_sms.py
+
+DONATE
+PAYPAL : paypal.me/venkeyrogue
 
 
 
