@@ -32,7 +32,7 @@ Installation && Build dependencies :
 2. sudo bash rq.sh
 
 
-3. sudo python3 anonymous_sms.py
+3. sudo python anonymous_sms.py
 
 
 Usage:-
