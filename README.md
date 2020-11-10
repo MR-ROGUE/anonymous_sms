@@ -48,8 +48,7 @@ You can track your sms weather sent or not it will used in 2nd option
 
 Notice : only one sms will be allow to send per day
 
-DONATE :
 
-BTC : 1G9xzksbZWWjvewroNvvpoUMHz4WWgbm4S
+DONATE 
 
 PAYPAL : paypal.me/venkeyrogue
