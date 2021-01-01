@@ -14,7 +14,7 @@ Author - Venkateshu Dudyala
 
 Social media handle
 
-Instagram page: @cyber_king_of_internet
+Instagram page: @cyber.security.unlocked
 
 Facebook page : @venkey.rouge 
 
