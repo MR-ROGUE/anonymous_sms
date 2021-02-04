@@ -6,6 +6,8 @@ Author - Venkateshu Dudyala
 "DISCLAIMER"
 
 
+0. A powerful tool for sending an text sms anonymously completly free of cost.
+
 1. Use it for need, not for revange.
 
 2. "Iam not responsible for your activities."
