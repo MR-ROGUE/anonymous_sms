@@ -1,5 +1,6 @@
 # anonymus_sms
 Author - Venkateshu Dudyala
+*This repo is un maintained*
 
 
 
